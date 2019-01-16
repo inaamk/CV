@@ -10,13 +10,13 @@ p{
 h1{
   color: #66BFBF;
   font-family: 'Sacramento', cursive;
-  font-size: 5.625rem;
+  font-size: 3.625rem;
   margin-bottom: 0;
 }
 h2{
   color: #66BFBF;
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   font-weight: normal;
 }
 h3{
@@ -39,13 +39,13 @@ hr{
 }
 .top-cloud{
   position: absolute;
-  right:100px;
-  top: 25px;
+  right:200px;
+  top: 10px;
 }
 .bottom-cloud{
   position: absolute;
-  left: 100px;
-  bottom: 350px;
+  left: 200px;
+  bottom: 150px;
 }
 a{
    color: #11999E;
