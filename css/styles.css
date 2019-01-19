@@ -42,11 +42,11 @@ hr{
   right:10%;
   top: 10px;
 }
-.bottom-cloud{
+/* .bottom-cloud{
   position: absolute;
   left: 200px;
   bottom: 150px;
-}
+} */
 a{
    color: #11999E;
    font-family: 'Montserrat', sans-serif;
@@ -64,7 +64,7 @@ a:hover{
   margin-bottom: 100px;
   text-align: left;
 }
-.code-img{
+/* .code-img{
   margin-right: 20px;
   float: left;
 }
@@ -79,7 +79,7 @@ a:hover{
 .platform{
   float: right;
   margin-left: 20px;
-}
+} */
 .bottom-container{
   background-color: #66BFBF;
   padding: 30px 0 10px;
@@ -118,4 +118,17 @@ a:hover{
   color: #EAf6F6;
   font-size: 0.75rem;
   padding: 10px 0;
+}
+
+
+#skills{
+  padding: 7% 10%;
+}
+
+.img-sys{
+  width: 25%;
+  height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
