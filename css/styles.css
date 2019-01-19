@@ -23,14 +23,25 @@ h3{
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
 }
+h4{
+  color: #53c7f0;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+  font-size: 1.75rem;
+}
 hr{
   border: dotted #EAF6F6 6px;
   border-bottom: none;
   width: 4%;
   margin: 25px auto;
 }
+
+.mypic{
+  width: 80px;
+  margin-bottom: 10px;
+}
 .middle-container{
-  margin: 25px;
+  margin: 20px;
 }
 .top-container{
   background-color: #e4f9f5;
@@ -85,7 +96,7 @@ a:hover{
   padding: 30px 0 10px;
 }
 .intro{
-  width: 30%;
+  width: 50%;
   margin: auto;
 }
 .btn {
@@ -122,7 +133,7 @@ a:hover{
 
 
 #skills{
-  padding: 7% 10%;
+  padding: 5% 10%;
 }
 
 .img-sys{
@@ -131,4 +142,5 @@ a:hover{
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 15px;
 }
